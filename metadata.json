@@ -1,0 +1,5 @@
+{
+  "name": "ProxyEasy",
+  "description": "A minimalist, one-click proxy service management platform for deploying and managing V2Ray, Trojan, and Shadowsocks services.",
+  "requestFramePermissions": []
+}
